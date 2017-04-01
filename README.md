@@ -1,1 +1,1 @@
-# Agrolifecoin
+# Agrolifecoin POW/POS Coin
