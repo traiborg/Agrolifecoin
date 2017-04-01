@@ -1,0 +1,9 @@
+Building Agrolifecoin
+
+See doc/readme-qt.rst for instructions on building Agrolifecoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Agrolifecoin.
+
+See doc/build-*.txt for instructions on building Agrolifecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Agrolifecoin.
